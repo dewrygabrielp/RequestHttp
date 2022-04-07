@@ -1,0 +1,16 @@
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\bin\Debug\net5.0\RequestHttp.exe
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\bin\Debug\net5.0\RequestHttp.deps.json
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\bin\Debug\net5.0\RequestHttp.runtimeconfig.json
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\bin\Debug\net5.0\RequestHttp.runtimeconfig.dev.json
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\bin\Debug\net5.0\RequestHttp.dll
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\bin\Debug\net5.0\ref\RequestHttp.dll
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\bin\Debug\net5.0\RequestHttp.pdb
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\RequestHttp.csproj.AssemblyReference.cache
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\RequestHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\RequestHttp.AssemblyInfoInputs.cache
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\RequestHttp.AssemblyInfo.cs
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\RequestHttp.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\RequestHttp.dll
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\ref\RequestHttp.dll
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\RequestHttp.pdb
+C:\Users\Delli7\Desktop\Request web with Http protocolo\RequestHttp\obj\Debug\net5.0\RequestHttp.genruntimeconfig.cache
